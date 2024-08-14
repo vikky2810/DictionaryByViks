@@ -1,5 +1,7 @@
 # Dictionary Web Page
 
+![l2Je66zG6mAAZxgqI](https://github.com/user-attachments/assets/974e9dd6-edb3-4e0b-9e24-072154f22ba7)
+
 This is a simple dictionary web application where users can enter a word and, upon pressing submit, see the meaning of that word.
 
 ## Features
